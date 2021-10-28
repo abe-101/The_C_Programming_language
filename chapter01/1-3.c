@@ -1,7 +1,11 @@
 #include <stdio.h>
+/*
+ * Chapter 1 Exercise 1-3.c print Fahrenheit-Celsius table
+ * for fahr = 0, 20, ..., 300 floating-point version
+ *
+ * By @abe_SlimHacker
+ */
 
-/* print Fahrenheit-Celsius table
- * for fahr = 0, 20, ..., 300 floating-point version */
 
 int main()
 {

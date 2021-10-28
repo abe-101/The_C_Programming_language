@@ -1,5 +1,5 @@
 /* 
- * Chapter 1 Exercise 01.c Run the "hello, world" program on your system.
+ * Chapter 1 Exercise 1-1.c Run the "hello, world" program on your system.
  * Experiment with leaving parts of the program, to see what
  * error messages you get.
  *
